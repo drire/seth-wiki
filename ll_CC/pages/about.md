@@ -3,7 +3,7 @@
 
 ## Section 1
 
-I've decided to go an make the awful decision to lrn2github
+I've decided to go and make the awful decision to lrn2github
 
 
 ## Section 2
