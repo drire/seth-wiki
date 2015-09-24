@@ -19,8 +19,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Home](pages/home.md
-[About](pages/about.md)
+[Home](pages/home.md) 
+[About](pages/about.md) 
 [Twitter](http://twitter.com/seth_maloney)
 
 <!-- A more complex navigation example: ----------------------------------------
